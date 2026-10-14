@@ -7,6 +7,8 @@ import { ProjectsProvider, SelectedProjectProvider } from './context';
 export const App = ({ darkModeDefault = false }) => {
   const [darkMode, setDarkMode] = useState(darkModeDefault);
 
+  this is a syntax error on purpose
+
   return (
     <SelectedProjectProvider>
       <ProjectsProvider>

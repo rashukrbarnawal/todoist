@@ -20,4 +20,9 @@ describe('<App />', () => {
       queryByTestId('application').classList.contains('darkmode')
     ).toBeTruthy();
   });
+
+  it('should fail this test intentionally', () => {
+    const { queryByTestId } = render(<App />);
+    expect(queryByTestId('application')).toBeFalsy();
+  });
 });
