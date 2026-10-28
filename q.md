@@ -1,3 +1,3 @@
-# Q File
+# Quick Notes
 
-This file has been added to the repository as requested.
+This file contains quick notes and references for the project.
