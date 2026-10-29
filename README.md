@@ -189,11 +189,26 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 **Rashu Krbarnawal**
 
+## 🌍 Community & Contributors from India
+
+This project is built and supported by developers from across India's vibrant tech communities:
+
+- **Bangalore** 🏙️ - Silicon Valley of India, tech innovation hub
+- **Mumbai** 🌆 - Financial hub and startup ecosystem
+- **Delhi** 🏛️ - Startup culture and entrepreneurship center
+- **Hyderabad** 💼 - IT services and tech hub
+- **Pune** 🎓 - Tech education and development center
+- **Chennai** 💻 - IT corridor and innovation center
+- **Kolkata** 🌉 - Emerging tech hub
+- **Gurugram** 🏢 - Business and tech center
+- **Ahmedabad** 📈 - Growing startup ecosystem
+- **Chandigarh** 🔧 - Planned city with active tech community
+
 ## 🙏 Acknowledgments
 
 - Created as part of the CognitiveSurge tutorial series
 - Built with Create React App
-- Thanks to all contributors and supporters
+- Thanks to all contributors and supporters from the vibrant tech communities across India
 
 ---
 
