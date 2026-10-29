@@ -1,0 +1,16 @@
+{
+  "owner": "rashukrbarnawal",
+  "repository": "todoist",
+  "description": "A Todoist clone built with React, demonstrating modern web development practices",
+  "maintainers": [
+    {
+      "name": "Rashuk Rbar Nawal",
+      "username": "rashukrbarnawal",
+      "role": "Owner/Maintainer"
+    }
+  ],
+  "contact": {
+    "github": "https://github.com/rashukrbarnawal",
+    "repository_url": "https://github.com/rashukrbarnawal/todoist"
+  }
+}
