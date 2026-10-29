@@ -1,0 +1,9 @@
+{
+  "name": "Todoist Clone"
+  "version": "1.0.0",
+  "author": "Developer",
+  "features": [
+    "task management",
+    "project management",
+  ]
+}
