@@ -171,7 +171,7 @@ Please ensure your code follows the existing style guide and includes appropriat
 
 - **ESLint**: Airbnb configuration with Prettier integration
 - **Prettier**: Automatic code formatting
-- **Jest Coverage**: Minimum 90% coverage requirement
+- **Jest Coverage**: Coverage reporting with Codecov integration
 - **Testing Library**: Best practices for testing React components
 
 ## 🔄 Continuous Integration
@@ -181,11 +181,11 @@ This project uses GitHub Actions for automated CI/CD workflows:
 ### Workflows
 
 - **CI (Comprehensive)** - Runs lint, test, and build jobs on every push and PR
-- **Test & Coverage** - Executes Jest tests with coverage reporting (90% threshold)
+- **Test & Coverage** - Executes Jest tests with coverage reporting
 - **Linting** - Validates code with ESLint and Prettier
 - **Build** - Ensures the app builds successfully and archives artifacts
 
-All workflows run on Node.js 12.x and 14.x to ensure compatibility. View the workflow configurations in `.github/workflows/`.
+All workflows run on Node.js 18.x and 20.x to ensure compatibility. View the workflow configurations in `.github/workflows/`.
 
 ## 🐛 Known Issues & Roadmap
 
