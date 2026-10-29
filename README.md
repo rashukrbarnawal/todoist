@@ -1,5 +1,10 @@
 # 📝 Todoist Clone - React Application
 
+[![CI](https://github.com/rashukrbarnawal/todoist/actions/workflows/ci.yml/badge.svg)](https://github.com/rashukrbarnawal/todoist/actions/workflows/ci.yml)
+[![Test & Coverage](https://github.com/rashukrbarnawal/todoist/actions/workflows/test.yml/badge.svg)](https://github.com/rashukrbarnawal/todoist/actions/workflows/test.yml)
+[![Build](https://github.com/rashukrbarnawal/todoist/actions/workflows/build.yml/badge.svg)](https://github.com/rashukrbarnawal/todoist/actions/workflows/build.yml)
+[![Linting](https://github.com/rashukrbarnawal/todoist/actions/workflows/lint.yml/badge.svg)](https://github.com/rashukrbarnawal/todoist/actions/workflows/lint.yml)
+
 A feature-rich **Todoist clone** built with React, demonstrating modern web development best practices including state management, Firebase integration, and comprehensive testing.
 
 ![Preview](todoist-preview.png?raw=true)
@@ -166,8 +171,21 @@ Please ensure your code follows the existing style guide and includes appropriat
 
 - **ESLint**: Airbnb configuration with Prettier integration
 - **Prettier**: Automatic code formatting
-- **Jest Coverage**: Minimum 90% coverage requirement
+- **Jest Coverage**: Coverage reporting with Codecov integration
 - **Testing Library**: Best practices for testing React components
+
+## 🔄 Continuous Integration
+
+This project uses GitHub Actions for automated CI/CD workflows:
+
+### Workflows
+
+- **CI (Comprehensive)** - Runs lint, test, and build jobs on every push and PR
+- **Test & Coverage** - Executes Jest tests with coverage reporting
+- **Linting** - Validates code with ESLint and Prettier
+- **Build** - Ensures the app builds successfully and archives artifacts
+
+All workflows run on Node.js 18.x and 20.x to ensure compatibility. View the workflow configurations in `.github/workflows/`.
 
 ## 🐛 Known Issues & Roadmap
 
